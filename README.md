@@ -1,2 +1,2 @@
 # labprograme
-Repositório da matéria de Laboratório de Programação. 
+Repositório da matéria de **Laboratório de Programação**. 
