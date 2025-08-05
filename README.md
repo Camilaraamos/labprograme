@@ -1,2 +1,2 @@
 # labprograme
-Repositório da matéria de **Laboratório de Programação**. 
+Repositório da cadeira de **Laboratório de Programação** da UFC. 
