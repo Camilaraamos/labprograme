@@ -1,2 +1,2 @@
 # labprograme
-Repositório da cadeira de **Laboratório de Programação** da UFC. 
+Repositório da disciplina **Laboratório de Programação**, do curso de *Segurança da Informação* da **UFC**.
